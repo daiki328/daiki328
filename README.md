@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="223" alt="スクリーンショット 2021-04-19 17 55 24" src="https://user-images.githubusercontent.com/69021549/115209543-a85f7200-a138-11eb-8db6-f38f5e13aef2.png">
+<img width="223" alt="gopher" src="https://user-images.githubusercontent.com/69021549/115209543-a85f7200-a138-11eb-8db6-f38f5e13aef2.png">
 
 <!--
 **daiki328/daiki328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
