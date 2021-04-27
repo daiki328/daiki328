@@ -1,4 +1,4 @@
-### Hi I'm Daiki Sakuma 👋
+### Hi, I'm Daiki Sakuma 👋
 
 <!--
 **daiki328/daiki328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
