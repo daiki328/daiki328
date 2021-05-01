@@ -1,7 +1,5 @@
 ### Hi, I'm Daiki Sakuma 👋
 
-- 🌱 I’m currently learning golang.
-
 <!--
 **daiki328/daiki328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
